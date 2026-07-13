@@ -130,6 +130,8 @@
 
 ✅ AI Applications
 
+✅ Machine Learning
+
 ---
 
 # 💡 Fun Fact
