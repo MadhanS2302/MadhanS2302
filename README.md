@@ -131,6 +131,7 @@
 ✅ AI Applications
 
 ---
+---
 
 # 💡 Fun Fact
 
