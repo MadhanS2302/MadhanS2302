@@ -102,9 +102,7 @@ I love turning real-world problems into working products — from emergency resp
   <img src="https://streak-stats.demolab.com?user=MadhanS2302&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanS2302&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
