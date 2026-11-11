@@ -48,7 +48,6 @@ I love turning real-world problems into working products — from emergency resp
 | 🚑 **WeRespond** | Real-time, community-based emergency response platform that connects people in distress with nearby volunteers for faster help during accidents, medical emergencies, fires and other critical situations. **🥈 2nd Place — Sri Ramakrishna College Hackathon (24 hrs).** | React Native, Node.js, Express.js, MySQL, Location Services, AI Geo-Matching |
 | 🩸 **WeDonate** | Digital donation & resource management platform connecting donors with individuals and organizations in need, with donation request tracking for better transparency and efficient distribution. The AI-powered blood donation version offers real-time donor scheduling and shortage prediction. **🥇 1st Place — Nehru Arts and Science College Hackathon.** | Web Technologies, Database Integration, AI |
 | 📍 **WeHere** | Smart community assistance platform that helps people find and provide immediate help for everyday needs by connecting them with nearby individuals and available resources. | Location-aware, Community Tech |
-| 👩 **SheConnect** | Women safety & community support platform. | — |
 | ☕ **Employee Management System** | Employee CRUD management application built with Java, JDBC and MySQL. | Java, JDBC, MySQL |
 | 🤖 **Jarvis AI** | Personal voice assistant built with Python. | Python |
 | 💼 **Portfolio Website** | My personal developer portfolio — [madhans.is-a.dev](https://madhans.is-a.dev) | Web |
@@ -77,8 +76,9 @@ I love turning real-world problems into working products — from emergency resp
 |-------------|-------|------|
 | 🥇 **1st Place** | Nehru Arts and Science College Hackathon, Coimbatore | 5–6 Feb 2026 |
 | 🥈 **2nd Place** | Sri Ramakrishna College Hackathon, Coimbatore | 13–14 Dec 2025 |
-| 🏎️ **Participant** | AWS DeepRacer Bootcamp (shortlisted from 500+ teams) — trained reinforcement learning models deployed to physical autonomous cars | 23–25 Aug 2024 |
 | 🥈 **2nd Place** | Sri Ramakrishna College Hackathon 1.0, Coimbatore — for the **Empower Her** project | 14–15 Aug 2024 |
+| 🏎️ **Participant** | AWS DeepRacer Bootcamp (shortlisted from 500+ teams) — trained reinforcement learning models deployed to physical autonomous cars | 23–25 Aug 2024 |
+
 
 ---
 
