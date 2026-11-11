@@ -108,13 +108,7 @@ I love turning real-world problems into working products — from emergency resp
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhanS2302&theme=tokyo-night" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
